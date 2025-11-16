@@ -31,7 +31,7 @@ python serve_mamba_xrv.py
 访问 http://127.0.0.1:5175 即可使用
 
 ### 在线演示
-
+本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 ## 📁 项目结构
@@ -163,7 +163,7 @@ python eval_metrics.py --model best_mamba_xrv.pth
 
 ## 📈 更新日志
 
-### v1.0.0 (2024-11)
+### v1.0.0 (2025-11)
 - ✨ 初始版本发布
 - 🎯 Vision Mamba模型集成
 - 🌐 Web界面开发完成
@@ -186,7 +186,8 @@ python eval_metrics.py --model best_mamba_xrv.pth
 ## 🙏 致谢
 
 - [Vision Mamba](https://github.com/hustvl/Vim) - 基础模型架构
-- [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - 医学影像数据集
+- [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - 医学影像处理工具和预训练模型
+- [Kaggle胸部X光肺炎数据集](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) - 训练和验证数据
 - [Render](https://render.com) - 免费部署平台
 
 ## 📞 联系方式
