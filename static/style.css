@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background: #f5f7fb; color: #333; }
+.container { max-width: 720px; margin: 40px auto; padding: 0 16px; }
+h1 { font-size: 22px; margin-bottom: 12px; }
+.card { background: #fff; border: 1px solid #e2e6ef; border-radius: 8px; padding: 16px; margin-top: 12px; }
+.threshold { margin-top: 12px; }
+button, .btn { background: #2e6df6; color: #fff; border: none; padding: 10px 14px; border-radius: 6px; cursor: pointer; }
+.btn { text-decoration: none; display: inline-block; }
+.preview { max-width: 100%; border-radius: 6px; border: 1px solid #ddd; }
+.info p { margin: 6px 0; }
+.actions { margin-top: 12px; }
